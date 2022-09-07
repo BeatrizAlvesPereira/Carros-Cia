@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+.principal{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+img{
+    width: 100%;
+}
+h2{
+    font-size: 28px;
+    padding: 0 auto;
+    margin-top: 0;
+}
+.paragrafo{
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 10px auto;
+    padding-bottom: 25px;
+}
+span{
+    color: #d59600;
+    font-weight: bold;
+}
+/*1º serção*/
+.capa{
+    width:100%;
+    height: 100%
+}
+.topo{
+    width: 100%;
+    background-color: #000000;
+    border-bottom: 1px solid #d5960054;
+    position: fixed;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.titulo1{
+    font-size: 24px;
+    text-align: center;
+    line-height: 28px;
+    margin: 10px auto;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.topo h1{
+    color: #d59600;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.links{
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 27px;
+    padding-top: 0;
+}
+.links a{
+    width: 980px;
+    color: #d59600;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: 2px solid #d59600;
+}
+/*2º serção*/
+.conteudo-sobre{
+    padding-bottom: 67px;
+}
+.conteudo-sobre img{
+    padding-top: 10px;
+    margin-bottom: 1px;
+    width: 450px;
+    height: 253px;
+}
+/*3º serção*/
+.conteudo-consultores{
+    padding-bottom: 67px;
+}
+.conteudo-consultores img{
+    width: 450px;
+    height: 300px;
+    padding-top: 9px;
+    padding-bottom: 1px;
+}
+.conteudo-consultores a{
+    color: #d59600;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 2px solid #d59600;
+}
+/*4º serção*/
+.conteudo-endereco iframe{
+    width: 980px;
+    border-radius: 5px;
+}
+/*5º serção*/
+.rodape{
+    width: 980px;
+    background-color: #1D1D1D;
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.rodape p{
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.rodape a{
+    color: #d59600;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 2px solid #d59600;
+}
